@@ -91,7 +91,6 @@ public static final String HEIGHT_KEY = "HEIGHT";
 public static final String QUALITY_KEY = "QUALITY";
 private TextView t;
 private ImageAdapter ia;
-private viewtext;
 private Cursor imagecursor, actualimagecursor;
 private int image_column_index, image_column_orientation,
 	actual_image_column_index, orientation_column_index;
